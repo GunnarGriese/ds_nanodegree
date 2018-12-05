@@ -1,2 +1,2 @@
 # ds_nanodegree
-Projects for DS Nanodegree
+This repo contains the projects necessary to pass the Udacity DS Nanodegree.
